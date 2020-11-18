@@ -1,0 +1,21 @@
+**JS**  or  **TS - (Microsoft)**
+---------
+ECMAScript or
+ES 2020. ES Next
+----------------
+JS
+ES5 (2009)--- more work
+ES6+ (2015) -- Modern JS
+ES 2016 - In each next version they didn't use ES5 or ES6
+	  like name they directly used with year name.
+-----------
+JS ---- client Side (Brower)
+JA ---- Server Side (Node)
+-----------
+
+JS official docs mdn
+http://typescript.org/
+
+babel JS compiler.
+http://babeljs.io
+-----------------------
